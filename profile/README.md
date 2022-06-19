@@ -5,7 +5,7 @@
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - we are dedicated to promote adoption of FHIR in China?       
-🌈 Contribution guidelines - scan the qrcode to join discussion group?      
+🌈 Contribution guidelines - scan the qrcode to join discussion group? https://github.com/FHIR-CN/.github/issues/1     
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?        
 🍿 Fun facts - what does your team eat for breakfast?          
